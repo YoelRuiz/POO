@@ -6,7 +6,7 @@ Curso POO del Tecnologico
 
 Tareas
 1) <a href="https://github.com/YoelRuiz/POO/blob/master/README.md">crear repositorio de github</a>
-2) Ejercicio de Markdown en github
+2) <a href="https://github.com/YoelRuiz/POO/blob/master/SETUP/README.md">Ejercicio de MArkdown en github</a>
 3) Programa Basico Peliculas
 
 Practicas
